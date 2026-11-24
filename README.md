@@ -6,13 +6,13 @@ Enter a mysterious maze where danger lurks around every corner! Collect ancient 
 
 | Key | Action |
 |---|---|
-| `W`  | ⬆️ Move up |
-| `A`  | ⬅️ Move left |
-| `S`  | ⬇️ Move down |
-| `D`  | ➡️ Move right |
-| `Enter` | ▶️ Start or restart after a completed/failed run |
-| `R` | 🔄 Restart when not playing |
-| `Esc` | 🏠 Return to the start screen |
+| `W` / ⬆️ | Move up |
+| `A` / ⬅️ | Move left |
+| `S` / ⬇️ | Move down |
+| `D` / ➡️ | Move right |
+| `Enter`   | Start or restart after a completed/failed run |
+| `R`       | Restart when not playing |
+| `Esc`     | Return to the start screen |
 
 ## 🎯 Objective
 
