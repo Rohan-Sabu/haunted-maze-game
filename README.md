@@ -35,10 +35,10 @@ You have **3 lives**. Stalkers are AI-controlled ghosts that use pathfinding and
 
 **Can you collect every relic, outsmart the Stalkers, and escape the maze?**
 
-### Prerequisites
+## Prerequisites
 - **Java (JDK or JRE 8 or later; Java 17+ works seamlessly)**
 
-### Compile and Run
+## Compile and Run
 
 From the project/source root, compile and execute it in the terminal:
 
